@@ -159,7 +159,10 @@ Modify the configurations in `.json` config files, then run:
 
   ```
   python train.py --config config.json
+  ex: python train.py -c config.json
+
   ```
+
 
 ### Resuming from checkpoints
 You can resume from a previously saved checkpoint by:
